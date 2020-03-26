@@ -1,5 +1,5 @@
 # "hola mundo" js + jest + travis
-![](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest.svg?branch=master)
+[![Build Status](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest)
 
 Pequeña prueba de concepto para lanzar un test usando js w/Jest en travis.
 
