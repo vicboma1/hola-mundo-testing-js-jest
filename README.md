@@ -3,7 +3,6 @@
 
 Pequeña prueba de concepto para lanzar un test usando js w/Jest en travis.
 
-
 Test
 ```
 test('adds 1 + 2 to equal 3', () => {
