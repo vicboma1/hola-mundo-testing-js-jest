@@ -4,7 +4,7 @@ node_js:
   - '10'
   - '12'
 
-stage:
+stages:
   -test 
   
 script:
